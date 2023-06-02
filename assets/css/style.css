@@ -254,7 +254,7 @@ main.drake-main {
 .menu li a span {
     position: absolute;
     transition: .3s;
-    font-size: 12px;
+    font-size: 25px;
     background: #404042;
     right: 100%;
     color: #fff;
@@ -263,6 +263,9 @@ main.drake-main {
     border-radius: 5px;
     visibility: hidden;
     opacity: 0;
+}
+.sidebar-social p{
+    font-size: 25px;
 }
 .menu li .scroll-to span::before,
 .menu li a span::before {
