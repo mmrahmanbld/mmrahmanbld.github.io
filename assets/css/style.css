@@ -254,7 +254,7 @@ main.drake-main {
 .menu li a span {
     position: absolute;
     transition: .3s;
-    font-size: 12px;
+    font-size: 20px;
     background: #404042;
     right: 100%;
     color: #fff;
@@ -376,7 +376,7 @@ main.drake-main {
 .responsive-sidebar-menu .sidebar-menu-inner .sidebar-social ul li a {
     color: #999999;
     transition: .3s;
-    font-size: 16px;
+    font-size: 26px;
 }
 .responsive-sidebar-menu .sidebar-menu-inner .sidebar-social ul li a:hover {
     color: var(--primary_color);
